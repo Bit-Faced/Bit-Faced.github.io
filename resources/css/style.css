@@ -4,8 +4,11 @@ body {
 }
 
 h1 {
-  font-size: 48px;
-  color: Aquamarine;
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-position: center;
 }
 
 a {
