@@ -18,3 +18,9 @@ a {
   font-size: 16px;
   font-family: Verdana;
 }
+
+.video-container {
+  display: flex;
+  width: 100%;
+  
+}
