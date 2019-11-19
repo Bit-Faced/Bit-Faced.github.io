@@ -1,6 +1,7 @@
 body {
   width: 100%;
   display: flex;
+  background-color: black;
 }
 
 h1 {
